@@ -2,11 +2,11 @@
 
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 't3onepage',
-	'description' => '',
+	'description' => 'A OnePage-Template for TYPO3 CMS',
 	'category' => 'distribution',
 	'author' => 'Maximilian Mayer',
-	'author_email' => 'max@m-elf.com',
-	'author_company' => 'm-elf.com',
+	'author_email' => 'maximilianmayer.net@gmail.com',
+	'author_company' => 'maximilian-mayer.com',
 	'shy' => '',
 	'priority' => '',
 	'module' => '',
