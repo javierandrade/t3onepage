@@ -1,0 +1,19 @@
+{
+  "name": "t3onepage",
+  "version": "2.0.0",
+  "description": "A OnePage-Template for TYPO3 CMS",
+  "repository": {
+    "type": "git",
+    "url": "https://maximilian-mayer@github.com/maximilian-mayer/t3onepage.git"
+  },
+  "author": "Maximilian Mayer",
+  "license": "MIT",
+
+  "devDependencies": {
+    "gulp": "~3.8.0",
+    "gulp-watch": "~0.6.6",
+    "gulp-livereload": "~2.1.0",
+    "gulp-autoprefixer": "0.0.7",
+    "gulp-sass": "~0.7.2"
+  }
+}
