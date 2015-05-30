@@ -17,7 +17,6 @@ plugin.tx_t3onepage {
 
 	extensions {
 		realurl = 1
-		sourceopt = 0
 	}
 
 	settings {
