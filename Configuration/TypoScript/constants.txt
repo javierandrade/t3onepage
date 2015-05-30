@@ -23,7 +23,7 @@ plugin.tx_t3onepage {
 	settings {
 		# customsubcategory=analytics=LLL:EXT:t3onepage/Resources/Private/Language/locallang.xlf:analytics
 		# cat=plugin.t3onepage/analytics/10; type=boolean; label= Analytics Enable
-		analyticsEnable = 1
+		analyticsEnable = 0
 		# cat=plugin.t3onepage/analytics/20; type=string; label= Analytics UA-XXXXXX
 		analyticsUA = UA-XXXXXX
 		# cat=plugin.t3onepage/analytics/30; type=string; label= Analytics Domain
