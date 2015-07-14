@@ -22,7 +22,7 @@ $EM_CONF[$_EXTKEY] = array(
 		'depends' => array(
 			'extbase' => '',
 			'fluid' => '',
-			'typo3' => '6.2.0-6.2.99',
+			'typo3' => '6.2.0-7.3.99',
 			'css_styled_content' => '',
 			'realurl' => '1.12.8-0.0.0'
 		),
