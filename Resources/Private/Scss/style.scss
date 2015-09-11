@@ -1,0 +1,21 @@
+/**
+ * t3onepage
+ * A OnePage-Template for TYPO3 CMS
+ *
+ * @author: Maximilian Mayer;
+ * @version: 2.0.0;
+ * @repository: https://github.com/maximilian-mayer/t3onepage/;
+ * @license: MIT;
+ */
+
+body {
+	&:before {
+		width: 100%;
+		padding: 15px 0;
+		display: block;
+		content: "v2.0.0-dev";
+		background: red;
+		text-align: center;
+		color: #fff;
+	}
+}
